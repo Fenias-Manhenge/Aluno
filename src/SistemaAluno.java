@@ -85,4 +85,8 @@ public class SistemaAluno {
         public void apagaAluno(){
             
         }
+        
+        public static void main(String[] args) {
+            
+        }
 }
